@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
 
 -->
 
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a great project.
 - 💬 Ask me about `Cloud Native` or `DevOps`.
 - 📫 How to reach me: [send email to me](mailto:jerry@mydream.ink)
-- 😄 Pronouns: `Jerry`
 - ⚡ Fun fact: I am a GEEK
 
 <img src="https://github-profile-trophy.vercel.app/?username=alphajc&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
